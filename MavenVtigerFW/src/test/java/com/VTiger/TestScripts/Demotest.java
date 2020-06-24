@@ -4,11 +4,11 @@ import org.testng.annotations.Test;
 
 import com.VTiger.GenericLib.BaseClass;
 
-public class Demo extends BaseClass {
+public class Demotest extends BaseClass {
 @Test
 public void demeCheck()
 
 {
-	System.out.println("demo running success");
+	System.out.println("demo running successfully");
 }
 }
