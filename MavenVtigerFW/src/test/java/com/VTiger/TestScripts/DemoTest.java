@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 import com.VTiger.GenericLib.BaseClass;
 
-public class Demotest extends BaseClass {
+public class DemoTest extends BaseClass {
 @Test
 public void demeCheck()
 
