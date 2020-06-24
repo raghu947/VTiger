@@ -9,6 +9,6 @@ public class Demo extends BaseClass {
 public void demeCheck()
 
 {
-	System.out.println("demo running");
+	System.out.println("demo running success");
 }
 }
