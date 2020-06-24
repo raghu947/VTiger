@@ -33,5 +33,6 @@ public class OrgTest extends BaseClass{
 		cop.getSaveBtn().click();
 		String successMsg=oip.getSuccessMsg().getText();
 		Assert.assertTrue(successMsg.contains(data.getDataFromExcel("organization", 1, 2)));
+		System.out.println("org");
 	}
 }
